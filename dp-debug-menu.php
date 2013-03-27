@@ -2,17 +2,17 @@
 /*
 Plugin Name: DP Debug Menu
 Plugin URI: http://dreamproduction.com/wordpress-plugins/dp-debug-menu
-Description: Simple debugger integrated in WordPress Admin Bar. Shows the template used for current page, number of queries, and execution time for PHP code.
+Description: Quick debugger integrated in WordPress Admin Bar. Shows the template used for current page, number of queries, and execution time for PHP code.
 Author: Dan Ștefancu
 Version: 0.1
 Author URI: http://stefancu.ro/
 Text Domain: dp-debug-menu
 Domain Path: /languages
-License: GPL v3
+License: GPLv3
 */
 
 /*
-Copyright (c) 2013, Dan Ștefancu (email : dan@dreamproduction.ro)
+Copyright (c) 2013, Dan Ștefancu (email : dan@dreamproduction.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
