@@ -53,7 +53,7 @@ function dp_add_debug_menu( $wp_admin_bar ) {
 	$current_theme = wp_get_theme();
 
 	// Show for administrators on single site or super administrators on multisite.
-	if ( ! current_user_can('edit_themes') )
+	if ( ! current_user_can('administrator') )
 		return null;
 
 	// No need for the debug menu in administration screen
