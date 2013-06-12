@@ -1,5 +1,5 @@
-# DP Debug Menu
-Contributors: de-ce
+=== DP Debug Menu ===
+Contributors: de-ce, dream production
 Tags: debug, menu, template, debugger, queries, time
 Requires at least: 3.0
 Tested up to: 3.5.1
@@ -7,11 +7,9 @@ Stable tag: trunk
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
------------------------
-
 Quickly shows the template used for current page, number of queries, and execution time for PHP code.
 
-## Description
+== Description ==
 
 A fast/small debugger integrated into the WordPress Admin Bar, made for identifying the template used for displaying current page.
 
@@ -24,11 +22,11 @@ It adds some other  potentially useful informations in the dropdown list:
 
 Link: [Dream Production](http://dreamproduction.com)
 
-## Installation
+== Installation ==
 
 See <http://codex.wordpress.org/Managing_Plugins#Installing_Plugins>
 
-## Changelog
+== Changelog ==
 
-### 0.1
+= 0.1 =
 Initial release.
