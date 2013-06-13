@@ -1,4 +1,5 @@
 # DP Debug Menu
+
 Contributors: de-ce
 Tags: debug, menu, template, debugger, queries, time
 Requires at least: 3.0
@@ -31,4 +32,12 @@ See <http://codex.wordpress.org/Managing_Plugins#Installing_Plugins>
 ## Changelog
 
 ### 0.1
-Initial release.
+* Initial release.
+* [more info](http://dreamproduction.com/wordpress-plugins/dp-debug-menu/v-0-1)
+
+
+## Screenshots
+
+1. Normal display.
+2. When hovering the mouse over the button.
+3. Hovering the mouse on a single template.
